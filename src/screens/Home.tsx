@@ -4,7 +4,7 @@ import '../assets/Style.css';
 export const Home: FC = () => {
   return (
     <div className="home">
-      <h1 className="title">Socialko Account Management</h1>
+      <h1 className="title">BuddiesOrg Account Management</h1>
     </div>
   );
 };
